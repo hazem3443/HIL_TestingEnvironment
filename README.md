@@ -14,3 +14,6 @@ $> ceedling test:all
 link to mocking Project
 [Mocking Tutorial](http://www.electronvector.com/blog/mocking-embedded-hardware-interfaces-with-ceedling-and-cmock)
 
+
+[Unity](https://github.com/ThrowTheSwitch/Unity/blob/master/docs/UnityHelperScriptsGuide.md)
+[CMOCK](https://github.com/ThrowTheSwitch/CMock/blob/master/docs/CMock_Summary.md#generated-mock-module-summary)
