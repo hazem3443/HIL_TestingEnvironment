@@ -1,7 +1,6 @@
 #ifdef TEST
-
+#include "mock_i2c.h"
 #include "unity.h"
-
 #include "tempsensor.h"
 
 void setUp(void)
