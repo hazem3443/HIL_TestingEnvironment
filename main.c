@@ -1,7 +1,6 @@
 #include <stdio.h>
-#include "add/add.h"
 
 int main(){
-    printf("add result = %d",add(1,2));
+    printf("add result = %d",1);
     return 0;
 }
