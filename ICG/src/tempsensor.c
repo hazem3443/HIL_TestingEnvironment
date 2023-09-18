@@ -1,0 +1,1 @@
+#include "tempsensor.h"
